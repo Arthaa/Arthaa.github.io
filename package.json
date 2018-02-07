@@ -1,6 +1,6 @@
 {
     "title": "Events",
-    "name": "Event name",
+    "name": "artha",
     "version": "4.0.0",
     "description": "SMVDU Event",
     "keywords": [
@@ -9,8 +9,6 @@
         "html",
         "responsive"
     ],
-    "homepage": "",
-    "license": "MIT",
     "dependencies": {
         "bootstrap": "4.0.0",
         "font-awesome": "4.7.0",
